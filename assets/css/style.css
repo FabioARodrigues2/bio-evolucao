@@ -184,4 +184,8 @@ body {
     img.paraguaio {
         width: 100%;
     }
+
+    #colaboradoreslink{
+        display: none;
+    }
 }
