@@ -44,13 +44,31 @@ body {
     text-decoration: none !important;
 }
 
+.link-footer{
+    position: absolute;
+    bottom: 0;
+    text-decoration: none !important;
+}
 
+.grid-container {
+    display: inline-grid;
+    grid-template-columns: auto auto auto auto;
+}
 
+.grid-item{
+    margin-right: 20px;
+    margin-left: 20px;
+}
 
+.img-colaboradores{
+    width: 100%;
+    border-radius: 50%;
+    height: 150px;
+}
 
-
-
-
+#divGridMembros{
+    text-align: center;
+}
 
 
 
